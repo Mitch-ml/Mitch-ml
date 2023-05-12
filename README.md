@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Mitch-ml
+- 👋 Hi, I’m Mitch
 - 👀 I’m interested in using data science to make the world a better place
-- 🌱 I’m currently learning about information loss and retrieval on networks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently interested in natural language processing
 
 <!---
 Mitch-ml/Mitch-ml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
